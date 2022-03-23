@@ -1,0 +1,6 @@
+<h2>World Changing Research</h2>
+<ul>
+	<li><?= anchor('#', 'Explore our Research Beacons: six collaborative area of research excellence') ?></li>
+	<li><?= anchor('#', 'Research news: Coronavirus: see how we are responding to the pandemic') ?></li>
+	<li><?= anchor('#', 'ARC: find out more about our flagship Advanced Research Centre, opening Spring 2022') ?></li>
+</ul>

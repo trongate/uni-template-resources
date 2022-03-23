@@ -1,0 +1,7 @@
+<ul>
+	<li><?= anchor('#', 'Subjects A-Z') ?></li>
+	<li><?= anchor('#', 'Undergraduate study') ?></li>
+	<li><?= anchor('#', 'Postgraduate study') ?></li>
+	<li><?= anchor('#', 'Study abroad &amp; exchange opportunities') ?></li>
+	<li><?= anchor('#', 'Visit us / Open Day') ?></li>
+</ul>

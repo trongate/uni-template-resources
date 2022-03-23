@@ -1,0 +1,9 @@
+<h2>Flexible study</h2>
+<ul>
+	<li><?= anchor('#', 'Online study options') ?></li>
+	<li><?= anchor('#', 'Continuing professional development (CPD)') ?></li>
+	<li><?= anchor('#', 'Microcredentials courses') ?></li>
+	<li><?= anchor('#', 'Short courses at the university') ?></li>
+	<li><?= anchor('#', 'Access to higher education') ?></li>
+	<li><?= anchor('#', 'Part-time undergraduate study') ?></li>
+</ul>

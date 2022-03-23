@@ -1,0 +1,9 @@
+<h2>Student Life</h2>
+<ul>
+	<li><?= anchor('#', 'New students') ?></li>
+	<li><?= anchor('#', 'Glasgow living support') ?></li>
+	<li><?= anchor('#', 'Chat to our students') ?></li>
+	<li><?= anchor('#', 'Undergraduate blogs') ?></li>
+	<li><?= anchor('#', 'Postgraduate blogs') ?></li>
+	<li><?= anchor('#', 'Student life vlogs') ?></li>
+</ul>

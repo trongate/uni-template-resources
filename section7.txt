@@ -1,0 +1,10 @@
+<h2>Centres for Doctoral Training</h2>
+<p>Multiple PhD scholarships available:</p>
+<ul>
+	<li><?= anchor('#', 'Future Ultrasonic Engineering (FUSE)') ?></li>
+    <li><?= anchor('#', 'Engineered Tissues for Discovery, Industry and Medicine (lifETIME)') ?></li>
+    <li><?= anchor('#', 'UKRI Centre for Socially Intelligent Artificial Agents (SOCIAL)') ?></li>
+    <li><?= anchor('#', 'Wellcome Trust PhD programme') ?></li>
+    <li><?= anchor('#', 'MRC Precision Medicine') ?></li>
+    <li><?= anchor('#', 'All our Centres for Doctoral Training') ?></li>
+</ul>

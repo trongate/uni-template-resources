@@ -1,0 +1,7 @@
+<h2>International Glasgow</h2>
+<ul>
+	<li><?= anchor('#', 'Information for international students') ?></li>
+	<li><?= anchor('#', 'Explore our global connections') ?></li>
+	<li><?= anchor('#', 'Information for EU students and applicants') ?></li>
+	<li><?= anchor('#', 'Erasmus Mundus joint master degrees') ?></li>
+</ul>

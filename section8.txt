@@ -1,0 +1,16 @@
+<h2>Postgraduate research</h2>
+<ul>
+	<li><?= anchor('#', 'Research opportunities') ?></li>
+    <li><?= anchor('#', 'Doctoral training') ?></li>
+</ul>
+<h2>Strategy</h2>
+<p>Developing our successful research community</p>
+<ul>
+    <li><?= anchor('#', 'Our strategy and policies') ?></li> 
+    <li><?= anchor('#', 'Our research excellence') ?></li>
+    <li><?= anchor('#', 'Our research environment') ?></li>
+</ul>
+<h2>Research A-Z</h2>
+<ul>
+    <li><?= anchor('#', 'Browse our research units and areas') ?></li>
+</ul>
